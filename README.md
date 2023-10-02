@@ -6,6 +6,9 @@
 
 ![GustavoRibas GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRibas&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
 ### Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
@@ -16,3 +19,18 @@
 <img align = "center" alt="bootsrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align = "center" alt="postgres" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
+## Sobre mim
+
+
+
+🎓 Estudante de Ciência da Computação apaixonado por explorar o vasto mundo da tecnologia. Atualmente, estou cursando Ciência da Computação na Faculdade Invest de Ciências e Tecnologias, aprimorando minhas habilidades e conhecimentos para construir um futuro inovador.
+
+🚀 Além disso, estou mergulhando no universo do desenvolvimento full-stack como parte do curso de Programador de Sistemas Full Stack pelo programa Fic_Dev, proporcionado pela Seciteci. Estou sempre aprendendo e aprimorando minhas habilidades para criar soluções criativas e eficientes para os desafios tecnológicos.
+
+📍 Atualmente, moro em Cuiabá, uma cidade incrível que me inspira a explorar novas ideias e a contribuir para a comunidade local de tecnologia.
+
+💻 Estou interessado em diversas áreas da computação, incluindo desenvolvimento web, desenvolvimento mobile e segurança da informação. Estou procurando por projetos interessantes para ampliar o aprendizado, expandindo meu conhecimento e buscando maneiras de fazer a diferença por meio da tecnologia.
+
+🌟 Vamos juntos explorar o futuro digital e criar inovações que impactam positivamente o mundo!
+
