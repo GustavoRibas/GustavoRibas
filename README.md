@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Ribas#8273)
 
 ![GustavoRibas GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRibas&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRibas&layout=compact)
 
 ### Tecnologias que estou aprendendo
 
